@@ -164,6 +164,14 @@ img.pdf{
 	margin: auto;
 }
 
+img.ecom{
+    content: url(../Media/Imagenes/ecommerce.jpg);
+    width: 43%;
+    height: 28%;
+    display: block;
+    margin: auto;
+}
+
 /* -----------------------------  */
 /* Este bloque contiene divs      */
 /* 					- AP 		  */
