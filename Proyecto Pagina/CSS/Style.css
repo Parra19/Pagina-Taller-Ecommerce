@@ -20,7 +20,7 @@ a.links-intro{
 }
 
 .intros{
-	transition: all 0.2s;
+	transition: all 3.0s;
 }
 
 /* -----------------------------  */
@@ -54,6 +54,13 @@ nav.Final{
 	background-image: url("../Media/Imagenes/nav2.jpg");
 	font-size: 30px;
 	padding: 35px;
+}
+
+nav.Principio{
+	display: block;
+	background-image: url("../Media/Imagenes/e-commerce.jpg");
+	size: 10%;
+	height: 30%;
 }
 
 
